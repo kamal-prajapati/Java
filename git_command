@@ -1,0 +1,16 @@
+How to add the file into github:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+make a directory run this command:git init
+clone the repository: git clone https://github.com/kamal-prajapati/Java.git
+go into this repository
+
+check the status git status: git status
+
+after 
+git add .
+
+git commit -m "strong commit message"
+git push origin main
+
+
+
