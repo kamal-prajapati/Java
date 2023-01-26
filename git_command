@@ -14,3 +14,14 @@ git push origin main
 
 
 
+
+How to add the file into the bitbucket:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+1. check the status: git status
+2. add the file : git add file 1 file2
+3. commit the file: git commit -m "message"
+4. push the code on git: git push 
+
+
+
